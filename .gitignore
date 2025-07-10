@@ -41,4 +41,4 @@ terraform.rc
 credentials/
 
 # Opcional: ignore todos arquivos json sensíveis
-*.json
+*.jsonminikube-linux-amd64
