@@ -42,3 +42,5 @@ credentials/
 
 # Opcional: ignore todos arquivos json sensíveis
 *.jsonminikube-linux-amd64
+.devcontainer/devcontainer.json
+minikube-linux-amd64
